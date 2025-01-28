@@ -1,0 +1,15 @@
+# SSL/TLS Links
+
+* [What is SSL, TLS, and HTTPS?](https://www.websecurity.digicert.com/en/ca/security-topics/what-is-ssl-tls-https)
+* [SSL Handshake diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SSL_handshake_with_two_way_authentication_with_certificates.svg/1000px-SSL_handshake_with_two_way_authentication_with_certificates.svg.png)
+* [TLS vs. SSL - 5 things to know](https://www.hostingadvice.com/how-to/tls-vs-ssl/)
+* [SSL/TLS deployment best practices](https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices)
+* [TutorialTeacher's How SSL works](https://www.tutorialsteacher.com/https/how-ssl-works)
+* [Measuring the cost of secure communication protocols on wearable devices](https://www.researchgate.net/figure/HTTPS-message-sequence-diagram-with-detailed-TLS-handshaking-steps_fig1_306187575)
+* [A multi-level framework to identify HTTPS services] (https://www.researchgate.net/publication/298065605_A_multi-level_framework_to_identify_HTTPS_services)
+* [2-way SSL handshake sequence diagram](https://en.wikipedia.org/wiki/File:Ssl_handshake_with_two_way_authentication_with_certificates.svg)
+* [Cloudflare's How to build your own public key infrastructure](https://blog.cloudflare.com/how-to-build-your-own-public-key-infrastructure/)
+* [Tech Republic's How To Enable SSL on Nginx](https://www.techrepublic.com/article/how-to-enable-ssl-on-nginx/)
+* [openssl man page](https://linux.die.net/man/1/openssl)
+* [What might a GUI for openssl look like?](https://smallstep.com/blog/if-openssl-were-a-gui/)
+* [ssldump man page](https://linux.die.net/man/1/ssldump)

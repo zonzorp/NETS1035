@@ -1,0 +1,18 @@
+# Links for hash function topics
+
+* [Ubuntu man pages](http://manpages.ubuntu.com/)
+* [Error detection in Computer Networks paper](https://www.faceprep.in/computer-networks/computer-networks-error-detection/)
+* [Hash Collision Probabilities examination](https://preshing.com/20110504/hash-collision-probabilities/)
+* [Wikipedia MD5 webpage](https://en.wikipedia.org/wiki/MD5)
+* [Wikipedia SHA main page](https://en.wikipedia.org/wiki/Secure_Hash_Algorithms)
+* [Blake hash website](https://131002.net/blake/)
+* [Tiger hash website](https://www.cs.technion.ac.il/~biham/Reports/Tiger/)
+* [Bruce Schneier's website](https://www.schneier.com/)
+* [Ron Rivest profile](https://www.csail.mit.edu/person/ronald-rivest)
+* [Cryptanalysis of SHA-1](https://www.schneier.com/blog/archives/2005/02/cryptanalysis_o.html)
+* [Bruce Schneier's Applied Cryptography book](http://www.schneier.com/book-applied.html)
+* [William Stallings Cryptography and Network Security book](http://williamstallings.com/Cryptography/)
+* [Data authentication algorithms presentation slides based on Chapter 12 of William Stallings book Cryptography and Network Security](https://www.yumpu.com/en/document/read/2810256/data-authentication-algorithm)
+* [MD5 collision attack and Micorsoft updates](https://hotforsecurity.bitdefender.com/blog/md5-hash-broken-via-collision-attack-of-less-than-1-10775.html)
+* [SHA-1 and why it is deprecated](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
+* [Interesting page with MD5 collision examples](https://www.mscs.dal.ca/~selinger/md5collision/)

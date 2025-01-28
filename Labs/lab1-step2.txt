@@ -1,0 +1,7 @@
+1. Remove the encryptedHash and encrypted instructions files from the random directory they were put in
+2. Generate a random message by using a random number generator on your system to produce 128 bytes of random binary data and create a sha-256 bit hash of the data
+3. Base64 encode the message
+4. Encrypt it with aespipe, using a 20 character random password created using data from your system's random number generator
+5. Submit your pdf showing the steps you took in the first task, and your second task's encrypted file and put the password for it and the sha-256 hash for the original random data from step 2 in the comments for this lab on blackboard
+
+When I decrypt and decode your file, I will be testing the content to see if you put real random data in it and have the right sha-256 hash for it. Both must be correct to get the marks for this task.
